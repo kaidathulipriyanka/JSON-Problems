@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.IO;
 using Newtonsoft.Json;
 
- class InventoryItem
+ class InventoryItem  
 {
     public string Name { get; set; }
     public int Price { get; set; }
